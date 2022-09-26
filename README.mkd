@@ -1,0 +1,11 @@
+## Algoritmo Java para calcular aumento e desconto de salário ☕🧩
+
+
+
+Fazer um programa para ler os dados de um seguintes dados do funcionário 
+
+- nome
+- salário bruto
+- imposto). 
+
+Em seguida, exibir os dados e aumente o salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use uma classe para calcular o desconto e outra para calcular o aumento.
